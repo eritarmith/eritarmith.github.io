@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eritarmith.github.io/sitemap
+Sitemap: https://eritarmith.github.io/app/sitemap
+Sitemap: https://eritarmith.github.io/assets/sitemap
+Sitemap: https://eritarmith.github.io/css/sitemap
+Sitemap: https://eritarmith.github.io/includes/sitemap
+Sitemap: https://eritarmith.github.io/item/sitemap
+Sitemap: https://eritarmith.github.io/src/sitemap
